@@ -10,12 +10,6 @@ namespace OSVersionInfo
 {
     public static class EnumExtensions
     {
-        /// <summary>
-        /// Retourne la valeur de l'attribut [Description]
-        /// </summary>
-        /// <typeparam name="T"></typeparam>
-        /// <param name="enumerationValue"></param>
-        /// <returns></returns>
         public static string GetDescription<T>(this T enumerationValue) where T : struct
         {
             Type type = enumerationValue.GetType();
