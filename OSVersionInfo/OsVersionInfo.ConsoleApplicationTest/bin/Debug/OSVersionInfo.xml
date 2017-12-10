@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>OSVersionInfo</name>
+    </assembly>
+    <members>
+        <member name="M:OSVersionInfo.EnumExtensions.GetDescription``1(``0)">
+            <summary>
+            Retourne la valeur de l'attribut [Description]
+            </summary>
+            <typeparam name="T"></typeparam>
+            <param name="enumerationValue"></param>
+            <returns></returns>
+        </member>
+        <member name="F:OSVersionInfo.OsCurrentInfo.OsVersionInfosDictionnary">
+            <summary>
+            This dictionnary contains the current os infos.
+            </summary>
+        </member>
+        <member name="M:OSVersionInfo.OsCurrentInfo.#cctor">
+            <summary>
+            Static Constructor.
+            </summary>
+        </member>
+        <member name="M:OSVersionInfo.OsCurrentInfo.Init">
+            <summary>
+            Loading os informations on cache.
+            </summary>
+        </member>
+        <member name="P:OSVersionInfo.OsCurrentInfo.IsWin10">
+            <summary>
+            Determines if our current OS is Win10.
+            </summary>
+        </member>
+        <member name="P:OSVersionInfo.OsCurrentInfo.IsWin8dot1">
+            <summary>
+            Determines if our current OS is Win8.1.
+            </summary>
+        </member>
+        <member name="P:OSVersionInfo.OsCurrentInfo.IsWin8">
+            <summary>
+            Determines if our current OS is Win8.
+            </summary>
+        </member>
+        <member name="P:OSVersionInfo.OsCurrentInfo.IsWin7">
+            <summary>
+            Determines if our current OS is Win7.
+            </summary>
+        </member>
+        <member name="P:OSVersionInfo.OsCurrentInfo.IsWinXP">
+            <summary>
+            Determines if our current OS is WinXP.
+            </summary>
+        </member>
+        <member name="P:OSVersionInfo.OsCurrentInfo.IsWinVista">
+            <summary>
+            Determines if our current OS is WinVista.
+            </summary>
+        </member>
+        <member name="P:OSVersionInfo.OsCurrentInfo.Version">
+            <summary>
+            Retrieves the current version of the os.
+            </summary>
+        </member>
+        <member name="P:OSVersionInfo.OsCurrentInfo.ServicePack">
+            <summary>
+            Retrieves the current service pack of the os.
+            </summary>
+        </member>
+        <member name="P:OSVersionInfo.OsCurrentInfo.Edition">
+            <summary>
+            Retrieves the current edition of the os.
+            </summary>
+        </member>
+        <member name="P:OSVersionInfo.OsCurrentInfo.ProcessorBits">
+            <summary>
+            Retrieves the bitness of the processor.
+            </summary>
+        </member>
+        <member name="P:OSVersionInfo.OsCurrentInfo.ProgramBits">
+            <summary>
+            Retrieves the bitness of the current process.
+            </summary>
+        </member>
+        <member name="P:OSVersionInfo.OsCurrentInfo.OsBits">
+            <summary>
+            Retrieves the bitness of the os.
+            </summary>
+        </member>
+    </members>
+</doc>

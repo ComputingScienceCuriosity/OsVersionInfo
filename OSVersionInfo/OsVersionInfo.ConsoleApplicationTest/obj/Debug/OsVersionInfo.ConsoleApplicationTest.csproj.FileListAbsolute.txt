@@ -1,0 +1,8 @@
+I:\MyProjects\OSVersionInfo\OsVersionInfo.ConsoleApplicationTest\bin\Debug\OsVersionInfo.ConsoleApplicationTest.exe
+I:\MyProjects\OSVersionInfo\OsVersionInfo.ConsoleApplicationTest\bin\Debug\OsVersionInfo.ConsoleApplicationTest.pdb
+I:\MyProjects\OSVersionInfo\OsVersionInfo.ConsoleApplicationTest\bin\Debug\OSVersionInfo.dll
+I:\MyProjects\OSVersionInfo\OsVersionInfo.ConsoleApplicationTest\bin\Debug\OSVersionInfo.pdb
+I:\MyProjects\OSVersionInfo\OsVersionInfo.ConsoleApplicationTest\bin\Debug\OSVersionInfo.xml
+I:\MyProjects\OSVersionInfo\OsVersionInfo.ConsoleApplicationTest\obj\Debug\OsVersionInfo.ConsoleApplicationTest.csprojResolveAssemblyReference.cache
+I:\MyProjects\OSVersionInfo\OsVersionInfo.ConsoleApplicationTest\obj\Debug\OsVersionInfo.ConsoleApplicationTest.exe
+I:\MyProjects\OSVersionInfo\OsVersionInfo.ConsoleApplicationTest\obj\Debug\OsVersionInfo.ConsoleApplicationTest.pdb

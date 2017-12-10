@@ -1,0 +1,14 @@
+I:\MyProjects\OSVersionInfo\OsVersionInfo.ConsoleApplicationTest\bin\Release\OsVersionInfo.ConsoleApplicationTest.exe
+I:\MyProjects\OSVersionInfo\OsVersionInfo.ConsoleApplicationTest\bin\Release\OsVersionInfo.ConsoleApplicationTest.pdb
+I:\MyProjects\OSVersionInfo\OsVersionInfo.ConsoleApplicationTest\bin\Release\OSVersionInfo.dll
+I:\MyProjects\OSVersionInfo\OsVersionInfo.ConsoleApplicationTest\bin\Release\OSVersionInfo.pdb
+I:\MyProjects\OSVersionInfo\OsVersionInfo.ConsoleApplicationTest\obj\Release\OsVersionInfo.ConsoleApplicationTest.csprojResolveAssemblyReference.cache
+I:\MyProjects\OSVersionInfo\OsVersionInfo.ConsoleApplicationTest\obj\Release\OsVersionInfo.ConsoleApplicationTest.exe
+I:\MyProjects\OSVersionInfo\OsVersionInfo.ConsoleApplicationTest\obj\Release\OsVersionInfo.ConsoleApplicationTest.pdb
+I:\GitHub\OSVersionInfo\OsVersionInfo.ConsoleApplicationTest\obj\Release\OsVersionInfo.ConsoleApplicationTest.exe
+I:\GitHub\OSVersionInfo\OsVersionInfo.ConsoleApplicationTest\obj\Release\OsVersionInfo.ConsoleApplicationTest.pdb
+I:\GitHub\OSVersionInfo\OsVersionInfo.ConsoleApplicationTest\bin\Release\OsVersionInfo.ConsoleApplicationTest.exe
+I:\GitHub\OSVersionInfo\OsVersionInfo.ConsoleApplicationTest\bin\Release\OsVersionInfo.ConsoleApplicationTest.pdb
+I:\GitHub\OSVersionInfo\OsVersionInfo.ConsoleApplicationTest\bin\Release\OSVersionInfo.dll
+I:\GitHub\OSVersionInfo\OsVersionInfo.ConsoleApplicationTest\bin\Release\OSVersionInfo.pdb
+I:\GitHub\OSVersionInfo\OsVersionInfo.ConsoleApplicationTest\obj\Release\OsVersionInfo.ConsoleApplicationTest.csprojResolveAssemblyReference.cache

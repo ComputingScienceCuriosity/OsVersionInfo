@@ -1,0 +1,7 @@
+I:\MyProjects\OSVersionInfo\bin\Debug\OSVersionInfo.XML
+I:\MyProjects\OSVersionInfo\bin\Debug\OSVersionInfo.dll
+I:\MyProjects\OSVersionInfo\bin\Debug\OSVersionInfo.pdb
+I:\MyProjects\OSVersionInfo\obj\Debug\OperatingSystem.Windows.Properties.Resources.resources
+I:\MyProjects\OSVersionInfo\obj\Debug\OSVersionInfo.csproj.GenerateResource.Cache
+I:\MyProjects\OSVersionInfo\obj\Debug\OSVersionInfo.dll
+I:\MyProjects\OSVersionInfo\obj\Debug\OSVersionInfo.pdb
